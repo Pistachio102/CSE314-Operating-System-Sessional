@@ -1,0 +1,151 @@
+Skip to main content
+CSE-BUET
+You are currently using guest access (Log in)
+July 2018 CSE314: Operating System Sessional
+Page path
+Home / ►Courses / ►July 2018 / ►July 2018 CSE314
+Weekly outline
+
+General
+ News forum
+ Course OutlineFile
+ CSE 314 Continuous Evaluation (July 2018)URL
+
+27 October - 2 November
+ Linux Shell CommandsFile
+ Install from Source on UbuntuFile
+ SED - another useful commandFile
+
+3 November - 9 November
+ Linux Shell ScriptsFile
+ Shell Script PracticeFile
+ Assignment on Shell ScriptURL
+ Shell Script Sample ProblemsPage
+ Updated Specifications for Shell Script AssignmentFile
+
+10 November - 16 November
+ Assignment on Shell Script (A1)
+Just upload a single script named xx05xxx.sh (StudentID.sh)
+
+ A1_Online1_TestFile
+ Assignment on Shell Script (A2)
+ A2_Online_TestFile
+ Assignment 1 Test DataFile
+ Assignment on Shell Script (B1)
+ Online 1 (B1)File
+ Online 1 B2File
+ Assignment on Shell Script (B2)
+
+17 November - 23 November
+ Fork, Semaphore, and Shared MemoryFile
+ Process and Fork ReferenceFile
+ Semaphore and Shared Memory ReferenceFile
+ Pthread, Semaphore, MutexFile
+ Assignment on IPC Problem (for ALL)File
+Submission Deadline:
+
+December 01, 2018, 11:55 PM
+
+
+24 November - 30 November
+ IPC Assignment (13 Batch)File
+ IPC Online (B2)File
+
+1 December - 7 December
+ IPC Assignment Submission
+
+8 December - 14 December
+ Building and Running xv6File
+ xv6 Offline 1File
+
+15 December - 21 December
+
+22 December - 28 December
+
+29 December - 4 January
+
+5 January - 11 January
+ XV6 Assignment 1 Submission
+ Implement Socket API (local loopback only) in xv6Assignment
+ Test code (Client server program) for xv6 Socket APIFile
+ xv6 Socket API stub (patch) for studentsFile
+
+12 January - 18 January
+ Linux Kernel and BootingFile
+ xv6 Assignment 3 SpecificationFile
+ XV6 Assignment 3 (Paging) Submission
+Skip Navigation
+Hide Navigation blockMove this to the dock
+NAVIGATION
+Home
+
+Site pages
+
+Current course
+
+July 2018 CSE314
+
+Participants
+
+General
+
+27 October - 2 November
+
+3 November - 9 November
+
+10 November - 16 November
+
+17 November - 23 November
+
+24 November - 30 November
+
+1 December - 7 December
+
+8 December - 14 December
+
+15 December - 21 December
+
+22 December - 28 December
+
+29 December - 4 January
+
+5 January - 11 January
+
+12 January - 18 January
+
+Courses
+
+Skip Search forums
+Hide Search forums blockMove this to the dock
+SEARCH FORUMS
+SearchSearch
+Go
+Advanced searchHelp with Search
+Skip Latest news
+Hide Latest news blockMove this to the dock
+LATEST NEWS
+2 Feb, 11:42Md. Saiful Islam
+Room Assignment for CSE 314 Quiz
+27 Jan, 00:18Md. Saiful Islam
+CSE 314 Quiz Announcement
+24 Jan, 04:09Md. Saiful Islam
+XV6 Assignment Declaration on Saturday
+5 Jan, 20:42Md. Saiful Islam
+Important Announcement
+17 Dec, 22:46Md. Saiful Islam
+Reschedule of Class on XV6
+Older topics ...
+Skip Upcoming events
+Hide Upcoming events blockMove this to the dock
+UPCOMING EVENTS
+There are no upcoming events
+Go to calendar...
+Skip Recent activity
+Hide Recent activity blockMove this to the dock
+RECENT ACTIVITY
+Activity since Tuesday, 18 February 2020, 3:58 PM
+Full report of recent activity...
+Nothing new since your last login
+
+You are currently using guest access (Log in)
+Home

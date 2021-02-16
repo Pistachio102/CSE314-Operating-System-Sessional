@@ -1,0 +1,296 @@
+Top 10 Algorithms and Data Structures for Competitive Programming
+How to begin with Competitive Programming?
+What is Competitive Programming and How to Prepare for It?
+Why Should I Learn Coding?Got it!
+GeeksforGeeks
+Skip to content
+CONTRIBUTE
+Custom Search
+
+Check which player visits more number of Nodes
+Count of integers in a range which have even number of odd digits and odd number of even digits
+Make the list non-decreasing by changing only one digit of the elements
+Nth XOR Fibonacci number
+Write a function to get the intersection point of two Linked Lists | Set 2
+Print all the permutation of length L using the elements of an array | Iterative
+Number of substrings that start with "geeks" and end with "for"
+Find a pair (n,r) in an integer array such that value of nPr is maximum
+Check if a cycle of length 3 exists or not in a graph that satisfy a given condition
+Count occurrences of a prime number in the prime factorization of every element from the given range
+Reversing a Queue using another Queue
+Minimum increment or decrement operations required to make the array sorted
+Check if the rows of a binary matrix can be made unique by removing a single column
+Number of Subarrays with positive product
+Queries for the minimum element in an array excluding the given index range
+Longest Increasing Subsequence using Longest Common Subsequence Algorithm
+Print nodes having maximum and minimum degrees
+Color all boxes in line such that every M consecutive boxes are unique
+Minimize the sum of the array according the given condition
+Count of triples (A, B, C) where A*C is greater than B*B
+Find two co-prime integers such that the first divides A and the second divides B
+Sum of all natural numbers from L to R ( for large values of L and R )
+Largest sub-matrix with all equal elements
+Minimize the cost of partitioning an array into K groups
+Maximum length sub-array which satisfies the given conditions
+Find out the prime numbers in the form of A+nB or B+nA
+perm_identity
+Top 10 Algorithms and Data Structures for Competitive Programming
+In this post “Important top 10 algorithms and data structures for competitive coding “.
+Topics :
+
+Graph algorithms
+Dynamic programming
+Searching and Sorting:
+Number theory and Other Mathematical
+Geometrical and Network Flow Algorithms
+Data Structures
+competitive-programming
+
+The below links cover all most  important algorithms and data structure topics:
+
+
+Graph Algorithms
+
+
+
+Breadth First Search (BFS)
+Depth First Search (DFS)
+Shortest Path from source to all vertices **Dijkstra**
+Shortest Path from every vertex to every other vertex **Floyd Warshall**
+Minimum Spanning tree **Prim**
+Minimum Spanning tree **Kruskal**
+Topological Sort
+Johnson’s algorithm
+Articulation Points (or Cut Vertices) in a Graph
+Bridges in a graph
+All Graph Algorithms
+
+
+Dynamic Programming
+
+Longest Common Subsequence
+Longest Increasing Subsequence
+Edit Distance
+Minimum Partition
+Ways to Cover a Distance
+Longest Path In Matrix
+Subset Sum Problem
+Optimal Strategy for a Game
+0-1 Knapsack Problem
+Assembly Line Scheduling
+All DP Algorithms
+
+ 
+
+
+Searching And Sorting
+
+Binary Search
+Quick Sort
+Merge Sort
+Order Statistics
+KMP algorithm
+Rabin karp
+Z’s algorithm
+Aho Corasick String Matching
+Counting Sort
+Manacher’s algorithm: Part 1, Part 2 and Part 3
+All Articles on Searching, Sorting and Pattern Searching.
+
+
+Number theory and Other Mathematical
+
+Prime Numbers and Prime Factorization
+
+Primality Test | Set 1 (Introduction and School Method)
+Primality Test | Set 2 (Fermat Method)
+Primality Test | Set 3 (Miller–Rabin)
+Sieve of Eratosthenes
+Segmented Sieve
+Wilson’s Theorem
+Prime Factorisation
+Pollard’s rho algorithm
+ 
+
+Modulo Arithmetic Algorithms
+
+Basic and Extended Euclidean algorithms
+Euler’s Totient Function
+Modular Exponentiation
+Modular Multiplicative Inverse
+Chinese remainder theorem Introduction
+Chinese remainder theorem and Modulo Inverse Implementation
+nCr%m and this.
+Miscellaneous:
+
+Counting Inversions
+Counting Inversions using BIT
+logarithmic exponentiation
+Square root of an integer
+Heavy light Decomposition , this and this
+Matrix Rank
+Gaussian Elimination to Solve Linear Equations
+Hungarian algorithm
+Link cut
+Mo’s algorithm and this
+Factorial of a large number in C++
+Factorial of a large number in Java+
+Russian Peasant Multiplication
+Catalan Number
+All Articles on Mathematical Algorithms
+
+
+Geometrical and Network Flow Algorithms
+
+Convex Hull
+Graham Scan
+Line Intersection
+Interval Tree
+Matrix Exponentiation and this
+Maxflow Ford Furkerson Algo and Edmond Karp Implementation
+Min cut
+Stable Marriage Problem
+Hopcroft–Karp Algorithm for Maximum Matching
+Dinic’s algo and e-maxx
+All Articles on Geometric Algorithms
+
+
+Data Structures
+
+Binary Indexed Tree or Fenwick tree
+Segment Tree (RMQ, Range Sum and Lazy Propagation)
+K-D tree (See insert, minimum and delete)
+Union Find Disjoint Set (Cycle Detection and By Rank and Path Compression)
+Tries
+Suffix array (this, this and this)
+Sparse table
+Suffix automata
+Suffix automata II
+LCA and RMQ
+All Articles on Advanced Data Structures.
+
+How to Begin?
+Please see How to begin with Competitive Programming?
+
+How to Practice?
+Please see https://practice.geeksforgeeks.org/
+
+What are top algorithms in Interview Questions?
+Top 10 algorithms in Interview Questions
+
+How to prepare for ACM – ICPC?
+How to prepare for ACM – ICPC?
+
+This is an initial draft. We will soon be adding more links and algorithms to this post. Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above
+
+
+
+Recommended Posts:
+Tips and Tricks for Competitive Programmers | Set 2 (Language to be used for Competitive Programming)
+How can one become good at Data structures and Algorithms easily?
+How can competitive programming help you get a job?
+Fast I/O for Competitive Programming
+A Better Way To Approach Competitive Programming
+What Are The Best Resources For Competitive Programming?
+C++ tricks for competitive programming (for C++ 11)
+How to begin with Competitive Programming?
+How to become a master in competitive programming?
+Bit Tricks for Competitive Programming
+Python in Competitive Programming
+What is Competitive Programming and How to Prepare for It?
+Knowing the complexity in competitive programming
+Fast I/O in Java in Competitive Programming
+Interactive Problems in Competitive Programming
+Article Tags : 
+Competitive Programming
+BFS
+Binary Indexed Tree
+BIT
+DFS
+Modular Arithmetic
+number-theory
+Segment-Tree
+sieve
+Topological Sorting
+Practice Tags : 
+number-theory
+DFS
+sieve
+Binary Indexed Tree
+Modular Arithmetic
+Segment-Tree
+BFS
+
+thumb_up
+38
+
+
+ 
+3.4
+
+Based on 93 vote(s)
+Feedback/ Suggest ImprovementAdd NotesImprove Article  
+Please write to us at contribute@geeksforgeeks.org to report any issue with the above content.
+Post navigation
+Previous
+first_page Range Minimum Query (Square Root Decomposition and Sparse Table)
+Next
+last_pageHow to begin with Competitive Programming?
+
+
+
+
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+
+
+Load Comments
+
+auto
+
+
+
+Most popular in Competitive Programming
+time.h localtime() function in C with Examples
+Count of Multiples of A ,B or C less than or equal to N
+Sort elements by modulo with K
+Check if the Matrix satisfies the given conditions
+Maximize the Expression | Bit Manipulation
+
+More related articles in Competitive Programming
+Range maximum query using Sparse Table
+Find a pair (n,r) in an integer array such that value of nCr is maximum
+Minimum number of additons to make the string balanced
+Arrow operator -> in C/C++ with Examples
+Java | Handling TLE While Using Arrays.sort() Function
+
+✍
+Write a Testimonial
+⇣
+GeeksforGeeks
+5th Floor, A-118,
+Sector-136, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Courses
+Company-wise
+Topic-wise
+How to begin?
+CONTRIBUTE
+Write an Article
+Write Interview Experience
+Internships
+Videos
+     
+@geeksforgeeks, Some rights reserved
+

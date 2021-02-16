@@ -1,0 +1,143 @@
+
+Write Interview Experience
+Internships
+Videos
+     
+@geeksforgeeks, Some rights reserved
+
+
+A Guide for Prospective PhD Students
+
+First draft: Tuesday, 07th January, 2014
+
+Last major update: Saturday, 1st September, 2018
+
+CONTRIBUTE
+Write an Article
+If you are interested in doing PhD, please read through this page very carefully. It may help you to find the answers of various questions you may have in your mind such as:
+Should you really do PhD?
+How to choose your PhD supervisor?
+General advice on your relationship with your PhD supervisor.
+What kind of supervision help you can expect from me?
+What expectations do you need to meet?
+What are the areas of my interest and my research projects (it is highly likely that you will be working on one of these topics)
+What are the scholarship opportunities?
+How to contact me if you are interested in doing PhD with me?
+Note: The views expressed here are my personal views and do not necessarily represent those of the Monash University. This guide is inspired by several articles available online (and I strongly encourage you to read further on this topic).
+Should you really do PhD?
+Doing PhD requires commitment and a lot of hard work for the duration of your degree (which is 3-4 years in Australia and more in USA and some other countries). Furthermore, a PhD degree may not be the best choice if you do not want to pursue a career in research, i.e., if your goal is to work for companies that are not doing any research, PhD will not help you to get the job (and in many cases you will be told that you are overqualified for the job). Therefore, my advice for you is to think very carefully before you commit yourself to PhD. I have written this section in an effort to help you making the right decision.
+
+Since I do not want to discourage good candidates, I will first talk about positive aspects of doing research using my personal experience and opinions. There are many reasons I love doing research (and other researchers have similar reasons) and a few are listed below.
+
+I love problem solving and critical thinking. It stimulates my brain which makes me feel good.
+Research is like a game (although very tough) and I enjoy it because I get to compete (or collaborate) with some of the best minds in the world. There are a lot of challenging problems to be solved and there are many brilliant minds trying to solve those problems. It gives me great joy when one of us conquers one of the difficult problems.
+I love "Eureka" and "Aha" moments. Eureka moment is the moment when you suddenly discover the solution for an unsolved problem (or a better solution for a solved problem). This moment is so joyful that it made Archimedes ran out of his bathtub naked. Aha moment is the moment when someone else finds a solution to the problem you have/had been unsuccessfully working on (it makes you say "aha" when you finally read the solution). The feelings caused by aha moment are hard to describe but they make me feel good. I cannot wait to read through the solutions of the problems that I failed to solve and it gives me joy to find that a brilliant mind has conquered a problem that had defeated me (enemy of the enemy is a friend). Although research also comes with many "oh-no" and "arghhh" moments, my love for Eureka and aha moments is strong enough to ignore the others.
+Researchers get a lot of travelling opportunities (to attend conferences, give talks, research visits etc.). Hence, I have a job that is not only rewarding but provides me opportunities to explore various parts of the world. If you get your papers accepted at good conferences, I (and/or the faculty) will support your travel costs.
+Although the researchers have to work quite hard, they usually have the freedom to choose their own work style, working hours and work location. Most of the times, you are your own manager.
+Many people are fascinated by the above. However, it is critical to analyze whether you are suitable for research - being inspired by the above does not mean that it will be a good career for you if you do not have the required qualities. It may be hard to analyze your skills since most of you do not have any (or have only limited) exposure to research. However, if you always like problem solving, think deep, think out of the box, can understand complicated concepts, and are hard working, it is a good indication that you are suitable for research. Otherwise, you may not enjoy doing research and may have difficulties during your PhD studies (although there is no guarantee that you will be good for a career in research even if you possess these qualities). Therefore, my suggestion is to take some time to carefully analyze your skills, aptitude and preferences before you enrol in PhD.
+
+I want to emphasize that a person who is not suitable for research is not necessarily inferior (in abilities) to the people who are suitable for research. Different people have different sets of strengths and weaknesses and, for this reason, are suitable for different careers. I would make a blunder if I had decided to study arts because I do not have the required abilities. Hence, there is no reason for you to be disappointed if you conclude that research is not for you. I am sure there are many other at least as good choices that match your strengths and preferences.
+
+Below are some (very) wrong reasons to do PhD (I keep hearing these from different people interested in doing PhD). If you do not have a right reason (e.g., one of the following reasons), it is better to spend your energies on something that will be more helpful for your career.
+
+My uncle (or xyz relative) did a PhD and I also want to do it, I want to make my parents proud, and/or no one in our family has a PhD and I want to be the first one etc. Everyone is different and possesses different strengths and weaknesses. You must make your decision based on your personal strengths and preferences (not on your uncle's). Also, if you choose a right career, you will be able to make people proud of you regardless of what career it is.
+I want to have "Dr." before my name. Ask yourself if you prefer to be an unsuccessful Dr. or a successful Mr./Ms./Mrs. Choose a right career and work hard, titles will come your way.
+I want to give it a try (e.g., to see if I have the required abilities). Trust me, if this is your sole motivation, you will be disappointed.
+I am currently unable to find a job and it is a good idea to get another degree in the meanwhile. Although it may sound quite good to you at the moment, believe me, it will turn out to be a very bad decision in the long term. If research is not the right career for you, you will end up spending at least 3-4 years in a career that does not bring you any benefit.
+I think doing PhD will increase my prospects of getting a better job with higher salary. This is not true at all. Firstly, there is no evidence that PhDs earn more (in fact, many surveys report the other way around). Secondly, a PhD degree helps you in securing only research related jobs (e.g., a faculty position, a research position in a research company). Hence, if you are not interested in research position after your PhD, you will not get much benefit from doing PhD. A company that is not doing research will not hire you (and if they hire you they will do so mainly because of the knowledge you gained during your previous degrees not because of your PhD - Is not it then better to polish the skills you already have and apply in those companies instead of spending time in PhD that does not directly help in getting the job). In fact, many companies will tell you that you are overqualified for the job.
+I should upgrade my qualifications. Upgrade but why? If you are hoping for a better job, see the above point. If you want to learn more about a particular subject, consider doing a master/specialization/certification because the research problems you will solve during PhD are much different from your expectations.
+If you know (or have heard) other wrong reasons to do PhD, please let me know so that I can improve the list.
+
+Now coming back to the original question "Should you really do PhD?". If you are even more confused after reading this section, it is a good indication because it shows that you are ready to learn/read/think more about this. I strongly encourage you to read further on this topic to get a clearer picture about research (see the bottom of the page). I can assure you that you will not regret spending time on reading these very well-written articles (read at least a couple) regardless of the final decision you make.
+
+How to choose a PhD supervisor?
+Suppose you have a friend Y who wants to get married. Y creates a profile on a matrimony website, skims through a lot of other profiles, and sends a marriage proposal to every profile that looks even slightly interesting. Y is so desperate that he/she will probably get married to the first person who replies positively. Well, most of the PhD students make the same mistake. They create a CV, visit the webpages of many of the faculty members, and send their CV to almost all of them. Yes, marriage is very different from a student-advisor relationship but there is one important similarity - compatibility is very important. If you have different priorities, goals and personalities, both of you will suffer. Please do not make the mistake of assuming that your relationship with your supervisor ends with your PhD. Good supervisors provide mentoring support to their students for the rest of their careers. Therefore, it is critical to choose a compatible supervisor.
+
+We (the advisors) carefully scan your application and only take you if you are deemed to be a good and compatible student. However, most of the students do not think much about choosing a PhD supervisor and are happy to avail any opportunity that they come across. This is a serious mistake. No matter how desperate you are to get into PhD, please make sure that you do your homework and try your best to choose an advisor who is compatible (or at least seems to be compatible). You do not want to get stuck in a bad relationship that will last for at least 3-4 years and will affect the rest of your career.
+
+I hope I have convinced you to think carefully before selecting an advisor. There are many well-written articles on how to choose a PhD advisor. Below are some of the articles that will help you in choosing a suitable advisor for your PhD.
+
+How to Choose Your Supervisor and Sail Happily Through Your PhD
+How to get the most from your PhD supervisor
+How to choose an advisor
+
+Finally, please do not send bulk emails to everyone thinking that you will do your homework only if the person responds positively - the advisors can easily tell which email was copied-pasted-and-sent to a lot of faculty members and ignore such emails. The emails that show that the student has done their homework receive more attention and are more likely to receive a reply.
+Some words on your relationship with your PhD supervisor
+I have met many PhD students who mistakenly assume that doing PhD is similar (but more advanced) to doing coursework degrees and the role of a PhD supervisor is similar to the role of a lecturer. This section is written in an effort to clarify that this assumption is wrong and it will hurt your progress if you do not start your PhD with the right attitude, i.e., the willingness to learn independently. I have seen a few bright students having difficulties in completing PhD because they failed to understand the role of their PhD supervisors. Below is a very brief description of your role as a PhD student and your supervisor's role.
+
+Some students make the mistake of assuming that the role of a PhD supervisor is to teach them the basic concepts (e.g., techniques, theories, formulas etc. given in research papers) and give them tasks/assignments etc. This is wrong. PhD supervisors will not have time to teach you the details (and it is not their role). If you do not understand something, you need to do the relevant background reading yourself. You will have to be independent enough to learn things by yourself. A PhD supervisor will serve only as a guide. Consider that you are a car driver. The job of your PhD supervisor is not to teach how to drive the car (because he assumes that you already know this, e.g., from the courses you have taken earlier). His role is more like a GPS navigator that guides you towards the right path (e.g., a navigator will tell you to take right turn from next intersection and will not teach you how to do this). Hence, you must be an independent learner. You will have to learn a lot of new things by yourself. Do not be afraid because there is a lot of help available on internet (and from senior students in your school).
+
+Also, do not expect (or wait) for your supervisor to give you assignments or tasks (like in coursework degrees). In coursework degrees, the lecturer is the main driver of the course (e.g., the lecturer teaches you the relevant material and your job is to understand whatever he teaches, the lecturer gives you assignments and your job is to complete the assignment before the deadline etc.). In PhD, you need to be the main driver of your studies (your supervisor will only guide you). For example, you come up with an idea and the supervisor listens to it and guides you in the right direction. Hence, you must not wait for your supervisor to give you tasks (except in the beginning of your PhD where he/she will guide you on how to get started). Also, if your supervisor has not allocated you any task it does not mean that you are not required to do anything. If you do not know what to do, ask your supervisor as early as possible. Many supervisors are too busy to keep track of the progress of their students. So, you need to drive your PhD studies yourself. In fact, in certain cases, you must push your supervisors to give you comments on your current progress (e.g., by contacting them whenever you have new research ideas). The bottom line is that you need to take responsibility of your PhD and see your supervisor only as a guide/mentor who is there to help you when you need it. A good supervisor will make sure he/she is available to listen to you whenever you need.
+
+
+What you can expect from me as a supervisor?
+The previous section has a negative tone because it covers what you must not expect from your supervisor. However, let me inject some positive energy in you by mentioning the fact that you as a PhD student are very valuable not only for your PhD supervisor but also for your school/department and university. This is because your success brings fruit for your supervisor, school and university (in terms of more publications, research funding etc.). Since you are an asset for us, I will try my best to ensure that you perform the best you can by providing you as much help and guidance as possible. In the previous section, I stated what you must not expect from your supervisor. Next, I briefly describe what kind of help you can expect from me as your PhD supervisor (this list is not exhaustive).
+
+Since most of the new students do not have any research experience, it is very important to guide them properly to provide them a good start. I will give you very clear directions on how to get started, e.g., the reading material and tools you need to make yourself familiar with, how research is done etc. We will have regular meetings where we will clearly outline our short term and long term plans so that you can organize your time and set goals accordingly.
+I will make sure that I am available for discussion whenever you have interesting ideas (if I am overseas we can talk via Skype).
+I like the students who have high goals and are hungry (Note: If you have started thinking about skipping meals, you misunderstood what I mean here). If you are the one, I will put more efforts on you to help you achieving your targets.
+I will spend a lot of time in teaching you how to write a research paper especially in your first project. You will be expected to write a draft and will revise it after I provide my comments. After several such rounds, I will take over and will polish (and finalize) the writing. I expect you to take this as a learning process and use the experience to write your next paper more independently. You must demonstrate that you can write reasonably well before you finish your PhD.
+I will have at least one meeting with you every week (and more as required if you have interesting ideas to report).
+I will ensure that you have required facilities to conduct your research, e.g., office/desk, computer, conference funding, data sets etc.
+I will also provide you with intellectual and emotional support, e.g., it is my responsibility to ensure the high quality of your research, I will try my best to resolve any problem (personal or work-related) that is affecting your progress.
+I try to maintain "friends-like" relationship with my students so that they can speak their hearts out. This is very important because it helps us communicate more effectively and positively.
+
+What I expect from you as a student?
+Apart from hard work, passion, diligence, hunger and willingness to learn etc., I expect the following from you (again, this list is not exhaustive)..
+I frequently publish in top-tier conferences and journals and expect my students to submit to only the top-tier conferences and journals. As you will see later, this requires a lot of hard work, dedication, creativity and deep thinking. I expect my students to target top-tier conferences and journals (the focus should be quality of your research not the quantity).
+Contact me whenever you feel demotivated, stressed, or anxious. I will be happy to help if I can (even if it is not related to your research). If you are stressed or demotivated, it will affect your research and PhD and this is not the situation I want to see any of my students in.
+Respect my time, e.g., come to meeting well prepared, do not ask me the questions that can be answered by Google etc.
+Be honest, e.g., if you do not understand something, tell me that you will think about it and come back instead of pretending that you know it and ending up wasting your and my time.
+While the ability to learn is important, do not underestimate the importance of the ability to "un-learn". I expect my students to learn and un-learn things as required (e.g., if you are used to do things in a specific way, sometimes it is a good idea to un-learn this and learn another more effective way to do the same things - this may significantly improve your performance and efficiency in the long run).
+
+My Research Interests and Projects
+My current research interests include spatial databases, mobile and pervasive computing, computational geometry and uncertain databases. If you are interested in working in one of these areas, submit an expression of interest (EOI). Currently, I am working on the following two research projects related to location-based services (LBS).
+Indoor data management
+A large part of modern life is lived indoors such as in homes, offices, shopping malls, universities, libraries and airports. However, almost all of the existing location-based services (LBS) have been designed only for outdoor space. This is mainly because the global positioning system (GPS) and other positioning technologies cannot accurately identify the locations in indoor venues. Some recent initiatives have started to cross this technical barrier, promising huge future opportunities for research organisations, government agencies, technology giants, and enterprising start-ups -- to exploit the potential of indoor LBS. Consequently, indoor data management has gained significant research attention in the past few years and the research interest is expected to surge in the upcoming years. This will results in a broad range of indoor applications including emergency services, public services, in-store advertising, shopping, tracking, guided tours, and much more. In this project, we are interested in developing efficient query processing techniques for indoor location data considering textual keywords associated with objects, and data uncertainty. Some additional details are given here .
+
+This project is supported by Australian Research Council (ARC Future Fellowship FT180100140).
+
+Location-based Social Networks
+This project aims to design effective and intelligent search techniques for large scale social network data. The project expects to advance existing social network search systems in three unique aspects: utilizing the geographical locations of queries and social network data to provide more relevant results; acknowledging and handling inherent uncertainties in the data; and exploiting knowledge graphs to produce intelligent search results. Expected outcomes of this project include a next-generation social network search system and enhanced international collaborations. The success of this project will support and enhance a wide range of applications such as law enforcement, health, national security, marketing, and advertisement.
+
+Some additional details are given here . This project is supported by Australian Research Council (ARC Discovery Project DP180103411).
+
+
+What are the scholarship opportunities?
+I am currently offering multiple PhD scholarships that will provide standard ARC stipend (around $27,000 per year) for the successful candidate(s) for up to 3.5 years. In addition, there are various scholarships for research students at Monash. For details, visit Monash Scholarships and Grants. Students applying to Faculty of Information Technology at Monash are also eligible for NICTA scholarships . You can also consider Australia Awards Scholarships. Please carefully read these links and the admission application procedure/requirement (I will not answer the emails that ask for the information already available on these pages).
+
+If you are interested, submit an expression of interest (EOI) by following the procedure detailed below.
+
+How to submit an expression of interest (EOI)?
+Firstly, note that you do not need a Masters degree to enroll in PhD. Send me the following information in an email.
+Your resume (include your GPA in each of your previous degrees and research experience if any).
+Transcripts
+After initial screening, I will send you some technical questions for you to solve and then we may arrange a Skype interview if required.
+Further reading on similar topic
+So long, and thanks for the Ph.D.!
+Notes on the Ph.D. degree
+The Ph.D. Experience
+Illustrative guide on What is a PhD
+3 qualities of successful Ph.D. students: Perseverance, tenacity and cogency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

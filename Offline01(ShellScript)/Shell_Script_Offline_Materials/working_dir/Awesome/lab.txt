@@ -1,0 +1,259 @@
+We use cookies to ensure you have the best browsing experience on our website. 
+By using our site, you acknowledge that you have read and understood our Cookie Policy & Privacy Policy
+Got it!
+GeeksforGeeks
+Skip to content
+Tutorialskeyboard_arrow_down Studentskeyboard_arrow_down Courses
+Custom Search
+
+Login
+Hire with us!
+▲
+less command in Linux with Examples
+How to run Linux Commands on Windows 10?
+C++ | asm declaration
+How to Fix Checksum Error Using fsck Command in Linux?
+Configure Passwordless Sudo For A Specific User in Linux
+Difference between locate, which and find Command in Linux
+Interesting Funny Commands in Linux
+Bash shell script to find out the largest value from given command line arguments
+Filters in Linux
+Few Tips for Fast & Productive Work on a Linux Terminal
+How to Transparently Overlaid Two Directories Using UnionFS in Linux?
+Installing and Configure vim Plugin in Ubuntu
+grpck command in Linux with Examples
+Configuring and Accessing Google Drive Account in Ubuntu
+Wikit in Linux
+How to Browse From the Linux Terminal Using W3M?
+How to Download YouTube Videos in Linux Command Line?
+Using Lynx to Browse the Web From the Linux Terminal
+How to Install and Configure Docker in Ubuntu?
+perm_identity
+less command in Linux with Examples
+Less command is linux utility which can be used to read contents of text file one page(one screen) per time. It has faster access because if file is large, it don’t access complete file, but access it page by page.
+
+For example, if it’s a large file and you are reading it using any text editor, then the complete file will be loaded to main memory, but less command don’t load entire file, but load it part by part, which makes it faster.
+
+syntax :
+
+
+
+less filename
+Note : I’m using dmesg output as input to less command in following examples.
+
+For Example : If you want to read contents of dmesg command, it’s better to use it with less command
+
+dmesg | less
+Output :
+
+[    0.000000] microcode: microcode updated early to revision 0x21, date = 2017-11-20
+[    0.000000] random: get_random_bytes called from start_kernel+0x42/0x504 with crng_init=0
+[    0.000000] Linux version 4.13.0-26-generic (buildd@lgw01-amd64-031) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.5)) #29~16.04.
+2-Ubuntu SMP Tue Jan 9 22:00:44 UTC 2018 (Ubuntu 4.13.0-26.29~16.04.2-generic 4.13.13)
+[    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.13.0-26-generic.efi.signed root=UUID=993a37f2-7ea9-43a3-b652-5b26bb879797 ro quiet splash vt.handoff=7
+[    0.000000] KERNEL supported cpus:
+[    0.000000]   Intel GenuineIntel
+[    0.000000]   AMD AuthenticAMD
+[    0.000000]   Centaur CentaurHauls
+[    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+[    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+[    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+[    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+[    0.000000] x86/fpu: Enabled xstate features 0x7, context size is 832 bytes, using 'standard' format.
+[    0.000000] e820: BIOS-provided physical RAM map:
+[    0.000000] BIOS-e820: [mem 0x0000000000000000-0x000000000006efff] usable
+[    0.000000] BIOS-e820: [mem 0x000000000006f000-0x000000000006ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000000070000-0x0000000000087fff] usable
+[    0.000000] BIOS-e820: [mem 0x0000000000088000-0x00000000000bffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000000100000-0x0000000094d5ffff] usable
+[    0.000000] BIOS-e820: [mem 0x0000000094d60000-0x0000000095d5ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000095d60000-0x000000009a36efff] usable
+[    0.000000] BIOS-e820: [mem 0x000000009a36f000-0x000000009aebefff] reserved
+[    0.000000] BIOS-e820: [mem 0x000000009aebf000-0x000000009afbefff] ACPI NVS
+[    0.000000] BIOS-e820: [mem 0x000000009afbf000-0x000000009affefff] ACPI data
+[    0.000000] BIOS-e820: [mem 0x000000009afff000-0x000000009affffff] usable
+[    0.000000] BIOS-e820: [mem 0x000000009b000000-0x000000009f9fffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000e0000000-0x00000000efffffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fe101000-0x00000000fe112fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000feb00000-0x00000000feb0ffff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fec00000-0x00000000fec00fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000fed00000-0x00000000fee00fff] reserved
+[    0.000000] BIOS-e820: [mem 0x00000000ffc00000-0x00000000ffffffff] reserved
+[    0.000000] BIOS-e820: [mem 0x0000000100000000-0x000000025f5fffff] usable
+[    0.000000] NX (Execute Disable) protection: active
+[    0.000000] e820: update [mem 0x93c97018-0x93ca7057] usable ==> usable
+[    0.000000] e820: update [mem 0x93c97018-0x93ca7057] usable ==> usable
+[    0.000000] e820: update [mem 0x93c8a018-0x93c96057] usable ==> usable
+[    0.000000] e820: update [mem 0x93c8a018-0x93c96057] usable ==> usable
+:
+mostly used Options :
+
+-E : causes less to automatically exit the first time it reaches end of file.
+-f : forces non-regular file to open.
+-F : causes less to exit if entire file can be displayed on first screen
+-g : highlight the string which was found by last search command
+-G : suppresses all highlighting of strings found by search commands
+-i : cause searches to ignore case
+-n : suppresses line numbers
+-p pattern : it tells less to start at the first occurrence of pattern in the file
+-s : causes consecutive blank lines to be squeezed into a single blank line
+
+Command Usage with options :
+
+dmesg | less -p "failure"
+The above command tells less to start at first occurrence of pattern “failure” in the file.
+
+Output :
+
+[  368.748104] wlp2s0: failed to remove key (1, ff:ff:ff:ff:ff:ff) from hardware (-22)
+[  372.254014] wlp2s0: authenticate with a0:55:4f:27:bd:01
+[  372.257112] wlp2s0: send auth to a0:55:4f:27:bd:01 (try 1/3)
+[  372.261055] wlp2s0: authenticated
+[  372.264307] wlp2s0: associate with a0:55:4f:27:bd:01 (try 1/3)
+[  372.270621] wlp2s0: RX AssocResp from a0:55:4f:27:bd:01 (capab=0x431 status=0 aid=199)
+[  372.272312] wlp2s0: associated
+[  372.357068] wlp2s0: Limiting TX power to 30 (30 - 0) dBm as advertised by a0:55:4f:27:bd:01
+[  682.255302] wlp2s0: disassociated from a0:55:4f:27:bd:01 (Reason: 1=UNSPECIFIED)
+[  682.304134] wlp2s0: failed to remove key (1, ff:ff:ff:ff:ff:ff) from hardware (-22)
+[  685.809837] wlp2s0: authenticate with a0:55:4f:27:bd:01
+dmesg | less -N
+It will show output along with line numbers
+Output :
+
+1 [    0.000000] microcode: microcode updated early to revision 0x21, date = 2017-11-20
+      2 [    0.000000] random: get_random_bytes called from start_kernel+0x42/0x504 with crng_init=0
+      3 [    0.000000] Linux version 4.13.0-26-generic (buildd@lgw01-amd64-031) (gcc version 5.4.0 20160609 (Ubuntu 5.4.0-6ubuntu1~16.04.5)) #2      3 9~16.04.2-Ubuntu SMP Tue Jan 9 22:00:44 UTC 2018 (Ubuntu 4.13.0-26.29~16.04.2-generic 4.13.13)
+      4 [    0.000000] Command line: BOOT_IMAGE=/boot/vmlinuz-4.13.0-26-generic.efi.signed root=UUID=993a37f2-7ea9-43a3-b652-5b26bb879797 ro qu      4 iet splash vt.handoff=7
+      5 [    0.000000] KERNEL supported cpus:
+      6 [    0.000000]   Intel GenuineIntel
+      7 [    0.000000]   AMD AuthenticAMD
+      8 [    0.000000]   Centaur CentaurHauls
+      9 [    0.000000] x86/fpu: Supporting XSAVE feature 0x001: 'x87 floating point registers'
+     10 [    0.000000] x86/fpu: Supporting XSAVE feature 0x002: 'SSE registers'
+     11 [    0.000000] x86/fpu: Supporting XSAVE feature 0x004: 'AVX registers'
+     12 [    0.000000] x86/fpu: xstate_offset[2]:  576, xstate_sizes[2]:  256
+less -F filename
+
+eg. less -F /home/mandeep/test/first.erl
+It will not give any output, since file can be displayed in single screen.
+
+less /home/mandeep/test/first.erl
+These are contents of above tested file, it can be displayed on single screen.
+
+-module(first).
+-export([fib/1]).
+
+fib(X) when X 
+    1;
+fib(X) when X >= 2 ->
+    fib(X - 1) + fib(X - 2).
+– Mandeep Singh
+
+References :
+1) wikipedia
+2) linux man pages
+
+
+
+Recommended Posts:
+rcp Command in Linux with examples
+which command in Linux with examples
+more command in Linux with Examples
+yes command in Linux with Examples
+ZIP command in Linux with examples
+gs command in Linux with Examples
+ps command in Linux with Examples
+cmp Command in Linux with examples
+until command in Linux with Examples
+env command in Linux with Examples
+cc command in Linux with Examples
+apt-get command in Linux with Examples
+rev command in Linux with Examples
+fc Command in Linux with Examples
+let command in Linux with Examples
+
+msdeep14
+Check out this Author's contributed articles.
+If you like GeeksforGeeks and would like to contribute, you can also write an article using contribute.geeksforgeeks.org or mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
+
+Please Improve this article if you find anything incorrect by clicking on the "Improve Article" button below.
+
+
+Article Tags : 
+Linux-Unix
+linux-command
+Linux-text-processing-commands
+
+thumb_up
+Be the First to upvote.
+
+
+ 
+2
+
+Based on 1 vote(s)
+Feedback/ Suggest ImprovementAdd NotesImprove Article  
+Please write to us at contribute@geeksforgeeks.org to report any issue with the above content.
+Post navigation
+Previous
+first_page dmesg command in Linux for driver messages
+Next
+last_pagexargs command in Linux with examples
+
+
+
+
+Writing code in comment? Please use ide.geeksforgeeks.org, generate link and share the link here.
+
+
+Load Comments
+
+auto
+
+
+
+Most popular articles
+Must Do Coding Questions for Companies like Amazon, Microsoft, Adobe, ...
+Find the Majority Element | Set 3 (Bit Magic)
+How to resize an image in an HTML 5 canvas ?
+Find the winner of the Game to Win by erasing any two consecutive similar alphabets
+Expand the string according to the given conditions
+
+Most Visited Articles
+How to get the day and month of a year using JavaScript ?
+Find the integers that doesnot ends with T1 or T2 when squared and added X
+Program to Encrypt a String using ! and @
+Compare two strings considering only alphanumeric characters
+Maximum non-attacking Knights that can be placed on an N*M Chessboard
+
+✍
+Write a Testimonial
+⇣
+GeeksforGeeks
+5th Floor, A-118,
+Sector-136, Noida, Uttar Pradesh - 201305
+feedback@geeksforgeeks.org
+COMPANY
+About Us
+Careers
+Privacy Policy
+Contact Us
+LEARN
+Algorithms
+Data Structures
+Languages
+CS Subjects
+Video Tutorials
+PRACTICE
+Courses
+Company-wise
+Topic-wise
+How to begin?
+CONTRIBUTE
+Write an Article
+Write Interview Experience
+Internships
+Videos
+     
+@geeksforgeeks, Some rights reserved
+
